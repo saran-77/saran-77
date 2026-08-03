@@ -63,47 +63,23 @@ Role-based Learning Management System built using MERN Stack.
 ### 🤖 AI Chatbot
 AI chatbot using OpenRouter API.
 
-### 🌦 Weather App
-React Weather Application.
-
-### 📋 Todo App
-Task management application.
-
 ### 👤 GitHub User Finder
 Search GitHub users using GitHub API.
 
 ---
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=saran-77&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saran-77&layout=compact&theme=tokyonight)
 
-![](https://streak-stats.demolab.com?user=saran-77&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=saran-77&theme=tokyonight&no-frame=true&margin-w=15)
-
----
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=saran-77&theme=tokyo-night)
-
----
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/shiva-saran-7b3605324?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:shivasaran770@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
