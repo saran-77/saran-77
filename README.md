@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-b81d13?style=flat-square&labelColor=1c140d" /></a>
+  <a href="https://shivasaran.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-b81d13?style=flat-square&labelColor=1c140d" /></a>
   <a href="https://github.com/saran-77"><img src="https://img.shields.io/badge/GITHUB-saran--77-c9a35a?style=flat-square&logo=github&logoColor=white&labelColor=1c140d" /></a>
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-c2a878?style=flat-square&labelColor=1c140d" />
   <img src="https://komarev.com/ghpvc/?username=saran-77&label=VIEWS&color=c9a35a&style=flat-square&labelColor=1c140d" />
@@ -338,7 +338,7 @@ PING shiva (chennai.in): 56 data bytes
   <a href="mailto:shivasaran757@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-SAY%20HI-b81d13?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c140d" />
   </a>
-  <a href="YOUR_PORTFOLIO">
+  <a href="Yhttps://shivasaran.vercel.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-c2a878?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1c140d" />
   </a>
   <a href="https://github.com/saran-77">
