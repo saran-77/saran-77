@@ -26,16 +26,12 @@ const shiva = {
 };
 ```
 
-<details>
-<summary>✨ <b>Click to see what I'm up to right now</b></summary>
-<br>
+### ✨ What I'm up to right now
 
 - 🤖 Exploring **LangChain** and **Retrieval-Augmented Generation (RAG)**
 - 🧠 Experimenting with **LLMs** and prompt engineering
 - 🌐 Building full-stack apps with the **MERN stack**
 - 🌱 Sharpening my Python and problem-solving skills
-
-</details>
 
 ---
 
@@ -77,54 +73,11 @@ const shiva = {
 
 ---
 
-## 📂 Featured Projects
-
-<details open>
-<summary><b>🎓 LearnNow LMS</b></summary>
-<br>
-
-Role-based **Learning Management System** built with the MERN stack.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🤖 AI Chatbot</b></summary>
-<br>
-
-An AI chatbot powered by the **OpenRouter API**.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=flat-square)
-
-</details>
-
-<details>
-<summary><b>👤 GitHub User Finder</b></summary>
-<br>
-
-Search and explore GitHub users using the **GitHub API**.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white)
-
-</details>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=saran-77&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saran-77&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saran-77&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 <p align="center">
